@@ -1,6 +1,4 @@
-### Hadeweka
-
-Yep, that's me.
+### About me
 
 I am working as a scientist in the field of numerical physics, with focus on particle simulations.
 
