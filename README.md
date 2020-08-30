@@ -22,6 +22,6 @@ Projects on hold:
 * [Inuhh Shinvasion 2](https://github.com/Hadeweka/Inuhh-Shinvasion-2) - Planned action RPG, will be ported to Shipectral
 
 Past projects which might be interesting:
-* [Inuhh Shinvasion](https://github.com/Hadeweka/Inuhh-Shinvasion) - A full jump'n'run game about a dog fighting against aliens
+* [Inuhh Shinvasion](https://github.com/Hadeweka/Inuhh-Shinvasion) - A full jump'n'run game about a dog fighting aliens
 * [HDWQuantum](https://github.com/Hadeweka/HDWQuantum) - Very basic quantum computing simulation with less than 200 lines of code
 
