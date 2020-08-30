@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hadeweka
 
-<!--
-**Hadeweka/Hadeweka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yep, that's me.
 
-Here are some ideas to get you started:
+I am working as a scientist in the field of numerical physics, with focus on particle simulations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Independent of work, my fields of interest are:
+* Game design and development
+* Game engine development
+* Physics simulations
+
+My main programming languages are:
+* Ruby
+* Crystal
+* C++
+* Julia
+* C
+
+I am currently working actively on the following projects:
+* [Anyolite](https://github.com/Anyolite/anyolite) - mruby scripting in Crystal
+* [Shipectral](https://github.com/Shidacea/Shipectral) - A Crystal 2D game engine
