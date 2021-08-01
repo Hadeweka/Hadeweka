@@ -17,7 +17,6 @@ My main programming languages are:
 I am currently working actively on the following projects:
 * [Anyolite](https://github.com/Anyolite/anyolite) - mruby scripting in Crystal
 * [Shidacea](https://github.com/Shidacea/Shidacea)/[Shipectral](https://github.com/Shidacea/Shipectral) - A 2D game engine with mruby scripting
-* Secret Anyolite demo project
 
 Projects on hold:
 * [Inuhh Shinvasion 2](https://github.com/Hadeweka/Inuhh-Shinvasion-2) - Planned action RPG, will be ported to Shipectral
