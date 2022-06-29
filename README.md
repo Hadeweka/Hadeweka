@@ -27,3 +27,5 @@ Past projects, which might be interesting:
 * [HDWQuantum](https://github.com/Hadeweka/HDWQuantum) - Very basic quantum computing simulation with less than 200 lines of code
 * [CrysQuant](https://github.com/Hadeweka/CrysQuant) - Quantum computing library in Crystal, upgrade of HDWQuantum
 * [Shidacea-CPP](https://github.com/Shidacea/Shidacea-CPP) - Abandoned C++ implementation of the Shidacea game engine
+
+Feel free to ask me anything about my projects or related topics.
