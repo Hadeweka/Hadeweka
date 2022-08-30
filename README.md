@@ -16,7 +16,7 @@ My main programming languages are:
 
 I am currently working actively on the following projects:
 * [Anyolite](https://github.com/Anyolite/anyolite) - mruby scripting in Crystal
-* [SDL-Crystal-Binding](https://github.com/Hadeweka/SDL-Crystal-Bindings) - Raw SDL bindings for Crystal
+* [SDL-Crystal-Bindings](https://github.com/Hadeweka/SDL-Crystal-Bindings) - Raw SDL bindings for Crystal
 * [Shidacea](https://github.com/Shidacea)/[Shipectral](https://github.com/Shidacea/Shipectral) - A 2D game engine with mruby scripting
 * [Inuhh Shinvasion](https://github.com/Hadeweka/Inuhh-Shinvasion) - A full jump'n'run game about a dog fighting aliens
 * [Inuhh Shinvasion 2](https://github.com/Hadeweka/Inuhh-Shinvasion-2) - Planned action adventure built with Shipectral (currently in the design phase)
