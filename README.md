@@ -1,6 +1,6 @@
 ### About me
 
-I am working as a scientist in the field of theoretical and numerical physics, with focus on particle simulations.
+I am working as a scientist in the field of theoretical and numerical physics, with focus on particle simulations and plasma physics.
 
 Independent of work, my fields of interest are:
 * Game design and development
@@ -14,7 +14,7 @@ My main programming languages are:
 * Julia
 * C
 
-I am currently working actively on the following projects:
+I am currently working actively on the following projects (ordered by priority):
 * [Anyolite](https://github.com/Anyolite/anyolite) - mruby scripting in Crystal
 * [SDL-Crystal-Bindings](https://github.com/Hadeweka/SDL-Crystal-Bindings) - Raw SDL bindings for Crystal
 * [Shidacea](https://github.com/Shidacea)/[Shipectral](https://github.com/Shidacea/Shipectral) - A 2D game engine with mruby scripting
