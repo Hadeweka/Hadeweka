@@ -17,12 +17,12 @@ My main programming languages are:
 I am currently working actively on the following projects (ordered by priority):
 * [Anyolite](https://github.com/Anyolite/anyolite) - mruby scripting in Crystal
 * [SDL-Crystal-Bindings](https://github.com/Hadeweka/SDL-Crystal-Bindings) - Raw SDL bindings for Crystal
-* [Shidacea](https://github.com/Shidacea)/[Shipectral](https://github.com/Shidacea/Shipectral) - A 2D game engine with mruby scripting
+* [Crystal2Day](https://github.com/Hadeweka/Crystal2Day) - A simple but powerful 2D game framework in Crystal
 * [Inuhh Shinvasion](https://github.com/Hadeweka/Inuhh-Shinvasion) - A full jump'n'run game about a dog fighting aliens
 * [Inuhh Shinvasion 2](https://github.com/Hadeweka/Inuhh-Shinvasion-2) - Planned action adventure built with Shipectral (currently in the design phase)
 
 Projects on hold:
-Currently none
+* [Shidacea](https://github.com/Shidacea)/[Shipectral](https://github.com/Shidacea/Shipectral) - A 2D game engine with mruby scripting
 
 Past projects, which might be interesting:
 * [HDWQuantum](https://github.com/Hadeweka/HDWQuantum) - Very basic quantum computing simulation with less than 200 lines of code
