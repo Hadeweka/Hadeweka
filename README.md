@@ -8,11 +8,10 @@ Independent of work, my fields of interest are:
 * Physics simulations
 
 My main programming languages are:
-* Ruby
 * Crystal
-* C++
-* Julia
-* C
+* Ruby
+* C++/C
+* Python
 
 I am currently working actively on the following projects:
 * [Anyolite](https://github.com/Anyolite/anyolite) - mruby scripting in Crystal
