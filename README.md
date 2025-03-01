@@ -16,7 +16,7 @@ My main programming languages are:
 I am currently working actively on the following projects:
 * [Anyolite](https://github.com/Anyolite/anyolite) - mruby scripting in Crystal
 * [SDL-Crystal-Bindings](https://github.com/Crystal2Day/SDL-Crystal-Bindings) - Raw SDL bindings for Crystal (SDL2 and SDL3!)
-* [Crystal2Day](https://github.com/Crystal2Day/Crystal2Day) - A simple but powerful 2D game framework in Crystal
+* [Crystal2Day](https://github.com/Crystal2Day) - A simple but powerful 2D game framework in Crystal
 * [Inuhh Shinvasion](https://github.com/Hadeweka/Inuhh-Shinvasion) - A full jump'n'run game about a dog fighting aliens
 
 Projects on hold:
